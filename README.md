@@ -11,7 +11,7 @@ for more details.
 
 Visit [nix.dev](https://nix.dev) for [installation instructions](https://nix.dev/tutorials/install-nix) and [beginner tutorials](https://nix.dev/tutorials/first-steps).
 
-Full reference documentation can be found in the [Nix manual](https://nixos.org/nix/manual).
+Full reference documentation can be found in the [Nix manual](https://cgbhcchjgfthdrnixos.org/nix/manual).
 
 ## Building And Developing
 
